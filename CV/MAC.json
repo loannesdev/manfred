@@ -1,0 +1,387 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Juan Sebastian",
+      "surnames": "Cortes Castillo",
+      "title": "Desarrollador web (front-end) junior ",
+      "description": "Soy un desarrollador mayormente autodidacta después de haber terminado mis estudios, desde ahí me he interesado mucho en el desarrollo web (por ahora estoy abarcando el área de front-end) pero con ganas de convertirme en desarrollador web fullstack algún día y también experimentar con el desarrollo de escritorio, móvil, en la nube y IA.\n\nNormalmente tengo una actitud reservada/asocial con personas que no conozco pero puedo relacionarme si es necesario, también me desenvuelvo bien cuando se trata de equipos de trabajo y ayudar a los demás (me gusta ayudar hasta donde mi capacidades me lo permitan). \n\nLas cosas que me gusta hacer en mis tiempos libres es actualizarme sobre el mundo del desarrollo, jugar videojuegos, investigar sobre temas interesantes, ejercitarme y montar bicicleta (ciclo montañismo).\n",
+      "location": {
+        "country": "Colombia",
+        "region": "Valle del Cauca",
+        "municipality": "Cali",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sebastian-c-130476121"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "EMCALI"
+        },
+        "roles": [
+          {
+            "name": "Practicante en desarrollo de software",
+            "startDate": "2019-04-01",
+            "finishDate": "2019-10-01",
+            "challenges": [
+              {
+                "description": "Servir de apoyo para el área de recaudo desarrollando diferentes tableros de control, haciendo uso de Excel (VBA) para permitir que personas del área pudieran contemplar con más claridad información de interés mes a mes."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VBA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Netlify",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Preact",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Netbeans",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Tecnólogo en análisis y desarrollo de sistemas de información ",
+        "startDate": "2019-11-01",
+        "finishDate": "2022-11-01",
+        "institution": {
+          "name": "SENA (servicio nacional de aprendizaje)",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Análisis y desarrollo de sistema de información",
+        "startDate": "2017-07-01",
+        "finishDate": "2019-10-01",
+        "institution": {
+          "name": "SENA (Servicio nacional de aprendizaje)",
+          "description": "",
+          "URL": "https://www.sena.edu.co"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Android Studio",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Netbeans",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "PHPMyAdmin",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Técnico en sistemas",
+        "startDate": "2016-12-01",
+        "finishDate": "2019-12-01",
+        "institution": {
+          "name": "SENA (servicio nacional de aprendizaje)",
+          "description": ""
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/sebastian-c-130476121"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Deno",
+          "type": "technology"
+        },
+        {
+          "name": "Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "GraphQL",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "Preact",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
+          "name": "Redis",
+          "type": "technology"
+        },
+        {
+          "name": "Svelte",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Layout Designer / Maquetación",
+        "Mobile Developer"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
