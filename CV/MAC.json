@@ -77,25 +77,55 @@
       },
       {
         "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Netbeans",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Cypress",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Visual Studio",
+          "name": "HTML",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "VBA",
+          "name": "Oracle",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "CSS",
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
           "type": "technology"
         }
       },
@@ -113,31 +143,13 @@
       },
       {
         "skill": {
-          "name": "HTML",
+          "name": "VBA",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Visual Studio Code",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Android Studio",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Tailwind",
+          "name": "Visual Studio",
           "type": "technology"
         }
       },
@@ -149,7 +161,13 @@
       },
       {
         "skill": {
-          "name": "Oracle",
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       },
@@ -161,25 +179,25 @@
       },
       {
         "skill": {
-          "name": "Netlify",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Netlify",
           "type": "technology"
         }
       },
@@ -191,7 +209,7 @@
       },
       {
         "skill": {
-          "name": "Netbeans",
+          "name": "JAVA",
           "type": "technology"
         }
       },
@@ -203,19 +221,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "jQuery",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
           "type": "technology"
         }
       }
