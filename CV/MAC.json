@@ -8,31 +8,23 @@
     "profile": {
       "name": "Juan Sebastian",
       "surnames": "Cortes Castillo",
-      "title": "Desarrollador web (front-end) junior ",
+      "title": "Desarrollador web front-end",
       "description": "Soy un desarrollador mayormente autodidacta después de haber terminado mis estudios, desde ahí me he interesado mucho en el desarrollo web (por ahora estoy abarcando el área de front-end) pero con ganas de convertirme en desarrollador web fullstack algún día y también experimentar con el desarrollo de escritorio, móvil, en la nube y IA.\n\nNormalmente tengo una actitud reservada/asocial con personas que no conozco pero puedo relacionarme si es necesario, también me desenvuelvo bien cuando se trata de equipos de trabajo y ayudar a los demás (me gusta ayudar hasta donde mi capacidades me lo permitan).\n\nLas cosas que me gusta hacer en mis tiempos libres es actualizarme sobre el mundo del desarrollo, jugar videojuegos, investigar sobre temas interesantes, ejercitarme y montar bicicleta (ciclo montañismo).",
       "avatar": {
-        "alt": "foto circular (1080x1080).jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/15/cb0b5c12-cf5f-403e-9c4a-b93d0cce4bb8_foto-circular-(1080x.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/15/cb0b5c12-cf5f-403e-9c4a-b93d0cce4bb8_foto-circular-(1080x.jpg",
+        "alt": "foto circular (1080x1080).jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ8bNLzPCmMI4RaGGuUum1Dx8)",
         "country": "Colombia",
         "region": "Valle del Cauca",
-        "municipality": "Cali",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Cali"
       }
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/loannesdev"
-      },
-      {
         "type": "other",
         "URL": "https://loannesdev.netlify.app"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/sebastian-cc/"
       }
     ]
   },
@@ -60,18 +52,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Github",
+          "name": "Android Studio",
           "type": "technology"
         }
       },
@@ -83,7 +75,7 @@
       },
       {
         "skill": {
-          "name": "Android Studio",
+          "name": "Cypress",
           "type": "technology"
         }
       },
@@ -95,13 +87,7 @@
       },
       {
         "skill": {
-          "name": "Netbeans",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cypress",
+          "name": "Github",
           "type": "technology"
         }
       },
@@ -113,7 +99,7 @@
       },
       {
         "skill": {
-          "name": "Oracle",
+          "name": "JAVA",
           "type": "technology"
         }
       },
@@ -125,19 +111,79 @@
       },
       {
         "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "MongoDB",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "WordPress",
+          "name": "Netbeans",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Netlify",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Preact",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
           "type": "technology"
         }
       },
@@ -155,67 +201,13 @@
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Tailwind",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Visual Studio Code",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "PHPMyAdmin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sass",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React Native",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Netlify",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Preact",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
+          "name": "WordPress",
           "type": "technology"
         }
       },
@@ -228,27 +220,15 @@
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Tecnólogo en análisis y desarrollo de sistemas de información ",
-        "startDate": "2019-11-01",
-        "finishDate": "2022-11-01",
-        "institution": {
-          "name": "SENA (servicio nacional de aprendizaje)",
-          "description": ""
-        }
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Análisis y desarrollo de sistema de información",
         "startDate": "2017-07-01",
-        "finishDate": "2019-10-01",
         "institution": {
           "name": "SENA (Servicio nacional de aprendizaje)",
-          "description": "",
           "URL": "https://www.sena.edu.co"
         },
+        "finishDate": "2019-10-01",
         "linkedCompetences": [
           {
             "name": "Android Studio",
@@ -299,12 +279,41 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Tecnólogo en análisis y desarrollo de sistemas de información ",
+        "startDate": "2019-11-01",
+        "institution": {
+          "name": "SENA (servicio nacional de aprendizaje)"
+        },
+        "finishDate": "2022-11-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Técnico en sistemas",
         "startDate": "2016-12-01",
-        "finishDate": "2019-12-01",
         "institution": {
-          "name": "SENA (servicio nacional de aprendizaje)",
-          "description": ""
+          "name": "SENA (servicio nacional de aprendizaje)"
+        },
+        "finishDate": "2019-12-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -313,8 +322,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/sebastian-cc/"
+          "URL": "https://www.linkedin.com/in/sebastian-cc/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/loannesdev",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "zsevaxt@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "3162465195",
+          "countryCode": "+57"
         }
       ]
     },
@@ -345,7 +367,7 @@
           "type": "technology"
         },
         {
-          "name": "Firebase",
+          "name": "Google Firebase",
           "type": "technology"
         },
         {
@@ -401,5 +423,9 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría un empleo donde pudiera aplicar lo que he aprendido, tener nuevos retos, y si es posible tener mentorización o acompañamiento en ciertas situaciones. También que hubiera la posibilidad de crecer dentro de la empresa (a largo plazo) y que tuviera un ambiente de trabajo no tan hostil donde pueda mejorar mi manera de relacionarme y compartir con los demás.",
+    "goodPractices": "He estado aprendiendo sobre TDD, DDD, test E2E (end-to-end), test unitarios y pruebas de rendimiento; no me considero un experto pero tengo noción sobre ello. También cabe recalcar de que he puesto en práctica dichas prácticas en proyectos personales pero no en un entorno real."
   }
 }
